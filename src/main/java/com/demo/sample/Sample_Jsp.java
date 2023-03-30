@@ -1,12 +1,12 @@
-package com.example.Spring_IO;
+package com.demo.sample;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-@Component
-@RequestMapping("/users")
+// @Component
 public class Sample_Jsp {
 
+	@RequestMapping("/users")
 	public String demo() {
 
 		System.out.println("Sample");

@@ -1,8 +1,8 @@
-package com.example.Spring_IO;
+package com.demo.sample;
 
 import org.springframework.stereotype.Component;
 
-@Component
+// @Component
 public class District_Config {
 	
 	private String district_Name;

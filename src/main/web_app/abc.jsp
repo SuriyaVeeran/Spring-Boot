@@ -7,10 +7,5 @@
 <title>Sample Page</title>
 </head>
 <body>
-
-Depends On State and District
-Return the Details
-
-
 </body>
 </html>

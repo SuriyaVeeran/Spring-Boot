@@ -1,9 +1,9 @@
-package com.example.Spring_IO;
+package com.demo.sample;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component
+// @Component
 public class State_Config {
 
 	private String state_Name;
